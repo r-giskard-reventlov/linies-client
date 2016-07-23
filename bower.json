@@ -1,0 +1,9 @@
+{
+  "name": "linies",
+  "authors": [
+    "rigiskard"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.1"
+  }
+}
